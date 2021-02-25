@@ -1,6 +1,8 @@
 require "rake/testtask"
 require 'find'
 
+# fake comment
+
 desc 'Say hello'
 task :hello do
   puts "Hello there. This is the 'hello' task."
